@@ -1,5 +1,5 @@
 ## Projects
-
+![mixgen_sample](https://github.com/user-attachments/assets/24e5e580-0eec-4a07-a7e0-bb7b9f8fd320)
 
 ### Multi-modal Data Augmentation Algorithm for Image-Text Pairs
 
